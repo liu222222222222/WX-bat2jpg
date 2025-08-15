@@ -64,7 +64,7 @@
 按分辨率 / 重复图 / 缩略图一键分拣  
 🔗 https://github.com/liu222222222222/WX-sort4pic  
 
-3️⃣ **photo-date-filler**  
+3️⃣ **WX-exif4filler**  
 把缺失的 `1970-01-01` 修正为真实拍摄时间（`00:00` / `30:00` 交替标记）  
 🔗 https://github.com/liu222222222222/WX-exif4filler/
 
@@ -78,6 +78,7 @@
  ！！KIMI就是永远的神！！以后随缘更新了 
 
  不懂得你们也可以问问KIMI (没有一分钱广告费)
+
 
 
 
